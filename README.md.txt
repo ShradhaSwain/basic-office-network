@@ -23,9 +23,5 @@ This project simulates a small office network using Cisco Packet Tracer.
 - DHCP enabled (automatic IP assignment)
 - Successful communication using ping
 
-📷 Screenshots
-
-(Add screenshots here later)
-
 🚀 Author
 Shradha Swain
