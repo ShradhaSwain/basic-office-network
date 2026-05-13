@@ -22,6 +22,13 @@ This project simulates a small office network using Cisco Packet Tracer.
 - Router configured as default gateway
 - DHCP enabled (automatic IP assignment)
 - Successful communication using ping
+- 
+📷 Screenshots
+
+- Network Topology
+- ![Topology](topology.png)
+- Ping Test
+- ![Ping](ping.png)
 
 🚀 Author
 Shradha Swain
